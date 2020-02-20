@@ -1,3 +1,5 @@
+/* 2020 - 02 - 20
+ * 수박수박수박수박수박수? */
 function solution(n) {
     var answer = '';
 
