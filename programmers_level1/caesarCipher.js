@@ -20,6 +20,8 @@
 * 추가 테스트 케이스
 * "   " | 1 | "   " //공백의 경우
 * xxXy| 23| uuUv
+*
+* 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 */
 
 function solution(s, n) {

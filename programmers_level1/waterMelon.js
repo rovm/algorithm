@@ -11,6 +11,8 @@
 * n |	return
 * 3 |	수박수
 * 4 |	수박수박
+*
+* 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 */
 
 function solution(n) {
