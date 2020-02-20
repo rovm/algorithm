@@ -7,7 +7,7 @@ function solution(n) {
     var answer = [];
     n = n.toString();
     var len =  n.length-1;
-    
+
     for(let i=len; i>=0; i--){
         answer.push(parseInt(n.charAt(i)));
     }
@@ -15,7 +15,7 @@ function solution(n) {
 }
 
 //방법 2
-function solution(n)
+function solution2(n)
 {
   return String(n).split('').reverse().map(v => +v);
 }

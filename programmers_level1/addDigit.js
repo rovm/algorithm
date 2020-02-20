@@ -16,7 +16,7 @@ function solution(n)
 }
 
 //방법 2
-function solution(n)
+function solution2(n)
 {
   return String(n).split("").reduce((tot,e) => tot + parseInt(e),0);
 }
