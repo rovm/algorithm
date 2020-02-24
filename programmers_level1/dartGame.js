@@ -3,15 +3,14 @@
 */
 
 function solution(dartResult) {
-    var answer = 0;
-
     var dr = dartResult.match(/\d{1,2}[SDT]{1}[*|#]?/g )
 
     var score = [];
     for(var i=0; i<3; i++){
         var num = dr[i].match(/\d{1,2}/g)
-
         var ch = dr[i].match(/[SDT]{1}/g)
+        var kiho = dr[i].match(/[*|#]/g)
+
         if(ch == "S"){
             num = parseInt(num)
         } else if(ch == "D"){
@@ -19,7 +18,7 @@ function solution(dartResult) {
         } else if(ch == "T"){
             num = num * num * num
         }
-        var kiho = dr[i].match(/[*|#]/g)
+
         if(kiho == "*"){
             num = num * 2;
             if(i != 0){
