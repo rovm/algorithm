@@ -1,5 +1,5 @@
 /* 2020 - 02 - 21
-* 최대공약수와 최소공배수
+* 핸드폰 번호 가리기
 */
 
 function solution(phone_number) {
