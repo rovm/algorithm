@@ -1,31 +1,35 @@
-/* 2020 - 02 - 26
-* 소수 찾기
+/* 2020 - 03 - 31
+* 모의고사
 */
 
-function solution(n) {
-    let answer = 0;
-    let arr = [];
+function solution(answers) {
+    var answer = [];
 
-    let startTime = new Date();
+    var supo1 = [1,2,3,4,5]
+    var supo2 = [2,1,2,3,2,4,2,5]
+    var supo3 = [3,3,1,1,2,2,4,4,5,5]
 
-    // 빈 배열에 값 초기화
-    for (let i = 2; i <= n; i++) {
-        arr[i] = i;
-    }
+    var a = corAns(answers, supo1)
+    var b = corAns(answers, supo2);
+    var c = corAns(answers, supo3);
 
-    for (let i = 2; i <= n; i++) {
-        if (arr[i] === 0) // 이미 체크된 수의 배수는 확인하지 않는다
-            continue;
+    var maxNum = Math.max(a,b,c)
+    if(maxNum == a)
+        answer.push(1);
+    if(maxNum == b)
+        answer.push(2);
+    if(maxNum == c)
+        answer.push(3);
+    answer.sort();
 
-        for (let j = i + i; j <= n; j += i) { // i를 제외한 i의 배수들은 0으로 체크
-            arr[j] = 0;
-        }
-    }
-
-    // 0이 아닌 수들은 모두 소수이므로, answer을 증가한다.
-    for (let i = 2; i <= n; i++) {
-        if (arr[i] !== 0)
-            answer++;
-    }
     return answer;
+}
+
+function corAns(answers, arr){
+    return answers.reduce((cnt, v, i) => {
+        if(v == arr[i% arr.length]){
+            cnt++;
+        }
+        return cnt
+    },0)
 }
