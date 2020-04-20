@@ -1,5 +1,5 @@
 /* 2020 - 04 - 20
-* JadenCase 문자열 만들기
+* 1차 캐시
 */
 
 function solution(s) {
