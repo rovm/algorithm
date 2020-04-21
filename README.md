@@ -36,7 +36,6 @@ Algorithm
 * [문자열 내림차순으로 배치하기](https://github.com/rovm/algorithm/blob/master/programmers_level1/reverseSort.js)
 * [비밀지도](https://github.com/rovm/algorithm/blob/master/programmers_level1/secretMap.js)
 * [문자열 내 마음대로 정렬하기](https://github.com/rovm/algorithm/blob/master/programmers_level1/sortStrWill.js)
-* [문자열 내 마음대로 정렬하기](https://github.com/rovm/algorithm/blob/master/programmers_level1/sortStrWill.js)
 * [직사각형 별찍기](https://github.com/rovm/algorithm/blob/master/programmers_level1/star.js)
 * [수박수박수박수박수박수?](https://github.com/rovm/algorithm/blob/master/programmers_level1/waterMelon.js)
 * [x만큼 간격이 있는 n개의 숫자](https://github.com/rovm/algorithm/blob/master/programmers_level1/xAsNNumber.js)
