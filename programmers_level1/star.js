@@ -1,5 +1,5 @@
 /* 2020 - 02 - 21
-* x만큼 간격이 있는 n개의 숫자
+* 직사각형 별찍기
 */
 
 process.stdin.setEncoding('utf8');
