@@ -42,4 +42,9 @@ Algorithm
 * [x만큼 간격이 있는 n개의 숫자](https://github.com/rovm/algorithm/blob/master/programmers_level1/xAsNNumber.js)
 
 > 프로그래머스_레벨2 문제
+* [캐시](https://github.com/rovm/algorithm/blob/master/programmers_level2/1sCashe.js)
+* [JadenCase 문자열 만들기](https://github.com/rovm/algorithm/blob/master/programmers_level2/JadenCase.js)
+* [최댓값과 최솟값](https://github.com/rovm/algorithm/blob/master/programmers_level2/MaxMinValue.js)
+* [점프와 순간이동](https://github.com/rovm/algorithm/blob/master/programmers_level2/jumpAndTelpo.js)
+* [소수만들기](https://github.com/rovm/algorithm/blob/master/programmers_level2/makeDemical.js)
 * []()
