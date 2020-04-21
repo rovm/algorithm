@@ -5,12 +5,10 @@
 function solution(nums) {
     var answer = 0;
     var leng = nums.length;
-    var temp = [];
 
     for(let i=0; i<leng-2; i++){
         for(let j=i+1; j<leng-1; j++){
             for(let k=j+1; k<leng; k++){
-                temp.push(nums[i]+nums[j]+nums[k]);
                 if(chkDecimal(nums[i]+nums[j]+nums[k])){
                     answer += 1
                 }
