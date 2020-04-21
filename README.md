@@ -4,7 +4,7 @@ Algorithm
 ##### 프로그래머스_레벨1 문제
 <pre>
   <code>
-    아아아아
+    >아아아아
   </code>
 </pre>
 
