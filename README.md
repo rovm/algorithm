@@ -49,3 +49,5 @@ Algorithm
 * [피보나치 수](https://github.com/rovm/algorithm/blob/master/programmers_level2/fibonacci.js)
 * [N개의 최소공배수](https://github.com/rovm/algorithm/blob/master/programmers_level2/NthLcm.js)
 * [포켓몬](https://github.com/rovm/algorithm/blob/master/programmers_level2/phonketmon.js)
+* [위장](https://github.com/rovm/algorithm/blob/master/programmers_level2/camouflage.js)
+* [다음 큰 숫자](https://github.com/rovm/algorithm/blob/master/programmers_level2/nextBigNum.js)
