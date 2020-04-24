@@ -47,4 +47,5 @@ Algorithm
 * [점프와 순간이동](https://github.com/rovm/algorithm/blob/master/programmers_level2/jumpAndTelpo.js)
 * [소수만들기](https://github.com/rovm/algorithm/blob/master/programmers_level2/makeDemical.js)
 * [피보나치 수](https://github.com/rovm/algorithm/blob/master/programmers_level2/fibonacci.js)
-* [N개의 최소공배수](https://github.com/rovm/algorithm/blob/master/programmers_level2/fibonacci.js)
+* [N개의 최소공배수](https://github.com/rovm/algorithm/blob/master/programmers_level2/NthLcm.js)
+* [포켓몬](https://github.com/rovm/algorithm/blob/master/programmers_level2/phonketmon.js)
