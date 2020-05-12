@@ -56,3 +56,4 @@ Algorithm
 * [숫자의표현](https://github.com/rovm/algorithm/blob/master/programmers_level2/numExpression.js)
 * [탑](https://github.com/rovm/algorithm/blob/master/programmers_level2/top.js)
 * [주식가격](https://github.com/rovm/algorithm/blob/master/programmers_level2/stockPrice.java)
+* [예상 대진표](https://github.com/rovm/algorithm/blob/master/programmers_level2/tournament.js)
