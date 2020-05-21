@@ -1,5 +1,5 @@
 /* 2020 - 05 - 21
-* N진수 게임
+* 오픈채팅방
 */
 
 function solution(record) {
