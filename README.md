@@ -57,4 +57,4 @@ Algorithm
 * [탑](https://github.com/rovm/algorithm/blob/master/programmers_level2/top.js)
 * [주식가격](https://github.com/rovm/algorithm/blob/master/programmers_level2/stockPrice.java)
 * [예상 대진표](https://github.com/rovm/algorithm/blob/master/programmers_level2/tournament.js)
-* [N진수 게임](https://github.com/rovm/algorithm/blob/master/programmers_level2/N_game.js)
+* [오픈채팅방](https://github.com/rovm/algorithm/blob/master/programmers_level2/openChating.js)
