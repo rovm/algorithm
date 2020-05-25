@@ -60,3 +60,4 @@ Algorithm
 * [오픈채팅방](https://github.com/rovm/algorithm/blob/master/programmers_level2/openChating.js)
 * [가장큰수](https://github.com/rovm/algorithm/blob/master/programmers_level2/largestNum.js)
 * [프렌즈4블록](https://github.com/rovm/algorithm/blob/master/programmers_level2/friends4Block.js)
+* [N진수 게임](https://github.com/rovm/algorithm/blob/master/programmers_level2/NthGame.js)
