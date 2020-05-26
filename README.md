@@ -63,3 +63,4 @@ Algorithm
 * [N진수 게임](https://github.com/rovm/algorithm/blob/master/programmers_level2/NthGame.js)
 * [다리를 지나는 트럭](https://github.com/rovm/algorithm/blob/master/programmers_level2/crossTheBridge.js)
 * [최솟값 만들기](https://github.com/rovm/algorithm/blob/master/programmers_level2/minNumber.js)
+* [행렬의 곱셈](https://github.com/rovm/algorithm/blob/master/programmers_level2/mulMatrix.js)
