@@ -1,7 +1,7 @@
 /* 2020 - 05- 12
 * 예상 대진표
 */
-
+ 
 function solution(n,a,b)
 {
     var arr = new Array(n);
